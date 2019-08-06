@@ -1,10 +1,10 @@
-AP 170 Name Shortener
+## AP 170 Name Shortener
 Shortens the names of the preloads in the Class 168/170/171 Enhancement Pack to a more readable format.
 
-Installation
+## Installation
 You can download this repository as is and run the files from the extracted folder.
 
-Usage
+## Usage
 If your Powershell environment is already configured, run the .ps1 script as is.
 
 ```
